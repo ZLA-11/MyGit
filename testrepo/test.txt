@@ -1,1 +1,2 @@
 remember to test this as this is key to understanding git
+testing to see that git tracks the changes
